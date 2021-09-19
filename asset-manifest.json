@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/weather-app/static/css/main.a13f717f.chunk.css",
+    "main.js": "/weather-app/static/js/main.2c5bfaee.chunk.js",
+    "main.js.map": "/weather-app/static/js/main.2c5bfaee.chunk.js.map",
+    "runtime-main.js": "/weather-app/static/js/runtime-main.ac0537f6.js",
+    "runtime-main.js.map": "/weather-app/static/js/runtime-main.ac0537f6.js.map",
+    "static/css/2.504a10c6.chunk.css": "/weather-app/static/css/2.504a10c6.chunk.css",
+    "static/js/2.38271ab3.chunk.js": "/weather-app/static/js/2.38271ab3.chunk.js",
+    "static/js/2.38271ab3.chunk.js.map": "/weather-app/static/js/2.38271ab3.chunk.js.map",
+    "static/js/3.5eef6d9e.chunk.js": "/weather-app/static/js/3.5eef6d9e.chunk.js",
+    "static/js/3.5eef6d9e.chunk.js.map": "/weather-app/static/js/3.5eef6d9e.chunk.js.map",
+    "index.html": "/weather-app/index.html",
+    "static/css/2.504a10c6.chunk.css.map": "/weather-app/static/css/2.504a10c6.chunk.css.map",
+    "static/css/main.a13f717f.chunk.css.map": "/weather-app/static/css/main.a13f717f.chunk.css.map",
+    "static/js/2.38271ab3.chunk.js.LICENSE.txt": "/weather-app/static/js/2.38271ab3.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/weather-app/static/media/WhatsApp Image 2021-09-19 at 8.10.34 PM.ab3c7655.jpeg",
+    "static/media/weather-icons.css": "/weather-app/static/media/weathericons-regular-webfont.e218aee6.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac0537f6.js",
+    "static/css/2.504a10c6.chunk.css",
+    "static/js/2.38271ab3.chunk.js",
+    "static/css/main.a13f717f.chunk.css",
+    "static/js/main.2c5bfaee.chunk.js"
+  ]
+}
